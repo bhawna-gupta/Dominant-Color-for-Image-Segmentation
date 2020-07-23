@@ -15,6 +15,7 @@ This repository contains a web application on finding the dormant color for imag
 ### Results
 
 <b> (with 2 color) </b>
+<br/>
 <img src="./results/res1.png" height="300" width="600">
 <br/>
 <b> (with 3 color) </b>
