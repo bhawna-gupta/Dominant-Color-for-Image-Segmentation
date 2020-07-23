@@ -17,8 +17,10 @@ This repository contains a web application on finding the dormant color for imag
 <b> (with 3 color) </b>
 <br/>
 <img src="./results/res1.png" height="300" width="600">
+<br>
 <b> (with 2 color) </b>
 <img src="./results/res2.png" height="300" width="600">
+<br>
 <b> (with 4 color) </b>
 <img src="./results/res3.png" height="300" width="600">
 
